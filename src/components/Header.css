@@ -1,0 +1,20 @@
+/* Custom styles for the Header component */
+.navbar-brand {
+    font-family: 'Arial', sans-serif;
+    font-size: 1.5rem;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    margin-right: 1rem;
+}
+
+.form-control {
+    border-radius: 20px;
+    padding: 0.5rem 1rem;
+}
+
+.btn-outline-success {
+    border-radius: 20px;
+    padding: 0.5rem 1rem;
+}
